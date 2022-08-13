@@ -14,7 +14,7 @@ body {
   justify-content: center;
   font-size: 1.6rem;
 
-  background-color: #FFEDD5;
+  background-color: #F2B680;
 }
 
 /* ===== CONFIG GERAL ===== */
@@ -43,7 +43,7 @@ header h1 {
 }
 
 header h1 span {
-  color: #995000;
+  color: #BF0404;
 }
 
 header p {
@@ -60,7 +60,7 @@ section h2 {
   font-size: 1.8rem;
   text-align: center;
 
-  background-color: #FED7AA;
+  background-color: #BF0404;
 }
 
 .category {
