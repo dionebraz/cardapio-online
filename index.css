@@ -14,7 +14,8 @@ body {
   justify-content: center;
   font-size: 1.6rem;
 
-  background-color: #F2B680;
+  /* background-color: #F2B680; */
+  background: url("https://delicialanches.com.br/wp-content/uploads/2018/02/foodbackground.png") no-repeat center center / cover;
 }
 
 /* ===== CONFIG GERAL ===== */
